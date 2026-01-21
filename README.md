@@ -9,7 +9,7 @@ Juego de Piedra, Papel o Tijera contra tu ordenador usando detección de manos e
 - Sistema de puntuación
 - Contador regresivo de 3 segundos
 
-## 🎮 Cómo jugar
+## Como jugar
 
 1. Presiona `S` para iniciar una ronda
 2. Haz tu gesto cuando termine el contador:
@@ -40,7 +40,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## ▶️ Uso
+## Uso
 ```bash
 python main.py
 ```
@@ -50,7 +50,7 @@ python main.py
 - `R` - Reiniciar marcador
 - `Q` - Salir
 
-## 📦 Estructura del proyecto
+## Estructura del proyecto
 ```
 rock_paper_scissors_ai/
 │
@@ -65,7 +65,7 @@ rock_paper_scissors_ai/
     └── 3.png             # Tijera
 ```
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python 3.11.9
 - OpenCV
