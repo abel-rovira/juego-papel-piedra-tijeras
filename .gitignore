@@ -1,0 +1,11 @@
+# Ignorar la carpeta del entorno virtual (¡Muy Importante!)
+.venv/
+venv/
+
+# Ignorar archivos temporales y de configuración de PyCharm
+.idea/
+__pycache__/
+*.pyc
+
+# Ignorar archivos de registro
+*.log
