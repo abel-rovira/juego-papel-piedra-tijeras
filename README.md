@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock Paper Scissors AI
+# Rock Paper Scissors 
 
 Juego de Piedra, Papel o Tijera contra tu ordenador usando detección de manos en tiempo real
 
