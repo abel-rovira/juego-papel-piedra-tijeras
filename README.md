@@ -72,7 +72,7 @@ rock_paper_scissors_ai/
 - MediaPipe
 - CVZone
 
-## 📝 Requisitos
+## Requisitos
 
 - Webcam
 - Python 3.7 o superior
